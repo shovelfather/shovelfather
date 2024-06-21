@@ -9,6 +9,8 @@
   </a>
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shovelfather)](https://git.io/streak-stats)
+
 <!--
 **shovelfather/shovelfather** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
