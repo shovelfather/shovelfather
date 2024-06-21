@@ -1,6 +1,6 @@
-### Just figuring this whole open source thing out
+<h3 align="center">Just figuring this whole open source thing out</h3>
 
-#### Current learning stack // tools I use
+<h4 align="center">Current learning stack // tools I use</h4>
 
 <p align="center">
   <a href="https://skillicons.dev">
