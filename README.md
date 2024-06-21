@@ -1,7 +1,13 @@
 ### Just figuring this whole open source thing out
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+#### Current learning stack // tools I use
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=aws,bash,docker,git,kubernetes,neovim,obsidian,terraform" />
+  </a>
+</p>
 
 <!--
 **shovelfather/shovelfather** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
