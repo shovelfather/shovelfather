@@ -1,5 +1,7 @@
 <h3 align="center">Just figuring this whole open source thing out</h3>
-
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shovelfather&theme=catppuccin-macchiato&hide_border=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+</p>
 <h4 align="center">Current learning stack // tools I use</h4>
 
 <p align="center">
@@ -8,8 +10,6 @@
       src="https://skillicons.dev/icons?i=aws,bash,docker,git,kubernetes,neovim,obsidian,terraform" />
   </a>
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shovelfather)](https://git.io/streak-stats)
 
 <!--
 **shovelfather/shovelfather** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
